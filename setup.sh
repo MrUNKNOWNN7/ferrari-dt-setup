@@ -24,7 +24,7 @@ git clone https://github.com/MrUNKNOWNN7/android_kernel_oneplus_sm8450-modules.g
 git clone https://github.com/MrUNKNOWNN7/android_kernel_oneplus_sm8450-devicetrees.git -b lineage-23.2 kernel/oneplus/sm8450-devicetrees
 
 #hardware
-git clone https://github.com/asmodeus-oos/android_hardware_oplus.git -b lineage-23.2 hardware/oplus
+git clone https://github.com/MrUNKNOWNN7/android_hardware_oplus.git -b lineage-23.2 hardware/oplus
 
 #Patches
 cd hardware/qcom-caf/sm8450/audio/agm
